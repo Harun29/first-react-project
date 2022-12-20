@@ -2,8 +2,6 @@ import Navbar from './Navbar'
 import Home from './Home'
 import { useState } from 'react';
 
-// const [content, setContent] = useState(<Home/>)
-//try it later
 
 function App() {
 
